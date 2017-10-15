@@ -54,9 +54,3 @@ class Customer:
         cust_id = cust_id['objectCreated']['_id']
         self.make_account(cust_id)
 
-guy = Customer("Jhn", "Doe", {'street_number': '1',
-                               'street_name': 'Street',
-                               'city': 'Dallas',
-                               'state': 'TX',
-                               'zip':'75229'
-                               })

@@ -1,0 +1,10 @@
+import pandas as pd
+from pandas.io.json import json_normalize
+import OutputCSV as ocsv
+import json
+import csv
+import ast
+
+url = "http://api.reimaginebanking.com/customers?key=0f030ef091420133d187099758681c3a"
+
+customers = pd.read_json(url,typ='series')

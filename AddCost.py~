@@ -1,0 +1,4 @@
+class AddCost:
+    cheap = ["SUBWAY", "CONVENIENCE", "TAKEAWAY", "DELIVERY"]
+    medium = ["BAR", "RESTAURANT", "CAFE", "STORE", "PHARMACY", "HAIR']
+    expensive = ["DEPARTMENT_STORE", "JEWELRY_STORE", "SPA", "FINANCE"]

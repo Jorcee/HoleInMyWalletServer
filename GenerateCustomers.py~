@@ -1,0 +1,4 @@
+import Customer
+
+for int i in range(0,10):
+    Customer("john","doe"+str(i)

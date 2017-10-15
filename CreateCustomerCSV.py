@@ -24,7 +24,7 @@ for accountID in accountIDs:
     for purchase in purchases:
         merchantIDs.append([accountID,purchase["merchant_id"]])
     account_and_purchases[accountID] = merchantIDs
-    for i in range(len(account_and_purchases[accountID]),500):
+    for i in range(len(account_and_purchases[accountID]),1000):
         account_and_purchases[accountID].append(" ")
     merchantIDs = []
 oldCSV = pd.DataFrame.from_dict(account_and_purchases)

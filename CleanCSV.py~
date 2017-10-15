@@ -1,0 +1,8 @@
+import csv
+
+def clean_csv(String csv_file):
+    rows = []
+    with open(csv_file, rb) as csvfile:
+        reader = cs.reader(csvfile, delimeter=',')
+        for row in reader:
+            rows.append(row)

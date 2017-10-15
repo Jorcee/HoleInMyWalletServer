@@ -1,0 +1,5 @@
+import pandas as pf
+res = [[1,2,3,4,5],['a','b','c','d','e']]
+my_df = pd.DataFrame(res)
+my_df.to_csv('out.csv', index=False, header=False)
+print my_df
