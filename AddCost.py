@@ -21,7 +21,8 @@ for e in expensive:
                     for c in cheap:
                         if any(c in sss for sss in row):
                             lines.append(row+['COST=LOW'])
-with open('MerchantsWithCost.csv', 'w') as f:
+merchant_data.close()
+with open('MerchantsWithCost.csv', 'w+') as f:
     writer = csv.writer(f, delimiter=',')
     for row in lines:
         writer.writerow(row)
