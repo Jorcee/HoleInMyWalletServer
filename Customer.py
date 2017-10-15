@@ -7,16 +7,17 @@ import CleanCSV as clean
 
 class Customer:
     account_id = ""
-    cust_id = ""    
+    cust_id = ""
+    types = ["STORE"]
     def make_purchases(self,account):
         url = 'http://api.reimaginebanking.com/accounts/'+account+'/purchases?key=0f030ef091420133d187099758681c3a'
-        types = ["BAR","LIQUOR_STORE"]
+        global types
+        types
         merchant_data = open('Merchants.csv','r')
         reader = csv.reader(merchant_data, delimiter=',')
         for t in types:
             for row in reader:
-                if row[2] == t:
-                    print(row[2])
+                if any(t in s for s in row):
                     payload={ 'merchant_id': row[0],
                               'medium':'balance',
                               'purchase_date':'2017-10-14',
@@ -39,7 +40,9 @@ class Customer:
         print(account_id)
         self.make_purchases(account_id)
         
-    def __init__(self,fname,lname,address):
+    def __init__(self,fname,lname,address, ts=[]):
+        global types
+        types = ts
         url = 'http://api.reimaginebanking.com/customers?key=0f030ef091420133d187099758681c3a'
         payload={"first_name":fname,
                  "last_name":lname,

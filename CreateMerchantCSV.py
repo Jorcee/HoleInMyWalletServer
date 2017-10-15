@@ -29,8 +29,9 @@ for row in oldCSV.iterrows():
     merchantList.append(row[0])
 for row in oldCSV.iterrows():
     tags = ast.literal_eval(row[1][1])
-    tags = ["" + x for x in tags]
-    tagList.append(tags[0])
+    counter=0
+    tags = ["Type=" + x for x in tags]
+    tagList.append(tags)
 merchantCSV.to_csv("debug.csv",index=False,header=False)
 newCSV = pd.DataFrame(tagList)
 newCSV.insert(0,'ID',merchantCSV)
