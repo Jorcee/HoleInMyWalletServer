@@ -1,10 +1,199 @@
-57cf75cea73e494d8675ec4a,,,,,,hellooo,,"['furniture_store', 'home_goods_store', 'store', 'point_of_interest', 'establishment']",35.909,-79.046,Pastimes Antiques
-57cf75cea73e494d8675ec4a,,,,,,hellooo,,"['furniture_store', 'home_goods_store', 'store', 'point_of_interest', 'establishment']",35.909,-79.046,Pastimes Antiques
-57cf75cea73e494d8675ec4b,Chapel Hill,NC,,,South Rd,5901,27514,"['food', 'point_of_interest', 'establishment']",35.909,-79.046,Ithaca Farmers' Market
-57cf75cea73e494d8675ec4c,Trumansburg,NY,Gorge Road,2030,,,14886,['Lodging'],42.54457119999999,-76.5983802,Taughannock Farms Inn
-57cf75cea73e494d8675ec4d,Ithaca,NY,North Meadow Street,400,,,14850,"['cafe', 'bakery', 'meal_takeaway', 'restaurant', 'food', 'store', 'point_of_interest', 'establishment']",42.44261090000001,-76.5086618,Ithaca Bakery
-57cf75cea73e494d8675ec4e,Aurora,NY,Main Street,391,,,13026,['Health'],42.75448799999999,-76.7032,Aurora Inn
-57cf75cea73e494d8675ec4f,Ithaca,NY,Adams Street,104,,,14850,"['store', 'point_of_interest', 'establishment']",42.4497493,-76.50136429999999,Zimet Musical Services
-57cf75cea73e494d8675ec50,Ithaca,NY,North Triphammer Road,2255,,,14850,['Clothing'],42.47999799999999,-76.48118199999999,Terra Rosa
-57cf75cea73e494d8675ec51,Cortland,NY,,,,,13045,"['store', 'point_of_interest', 'establishment']",42.6011813,-76.1804843,shworldofgifts
-57cf75cea73e494d8675ec52,Ithaca,NY,Fairgrounds Memorial Parkway,131,,,14850,"['food', 'home_goods_store', 'store', 'point_of_interest', 'establishment']",42.429088,-76.51341959999999,Dollar Tree
+57cf75cea73e494d8675eea2,Atlanta,GA,Lenox Road Northeast,3405,30326,"['lodging', 'restaurant', 'food', 'point_of_interest', 'establishment']",33.847983000000006,-84.3599527,Atlanta Marriott Buckhead Hotel & Conference Center
+57cf75cea73e494d8675eea3,Atlanta,GA,Interstate North Circle Southeast,200,30339,"['lodging', 'restaurant', 'food', 'point_of_interest', 'establishment']",33.8983737,-84.4674141,Atlanta Marriott Northwest at Galleria
+57cf75cea73e494d8675eea4,Atlanta,GA,Hammond Drive Northeast,800,30328,"['lodging', 'restaurant', 'food', 'point_of_interest', 'establishment']",33.919483899999996,-84.36081870000001,Sheraton Atlanta Perimeter North Hotel
+57cf75cea73e494d8675eea5,Atlanta,GA,Perimeter Center Parkway Northeast,246,30346,"['lodging', 'restaurant', 'food', 'point_of_interest', 'establishment']",33.91782870000001,-84.3444097,Atlanta Marriott Perimeter Center
+57cf75cea73e494d8675eea6,Norcross,GA,McDonough Drive Northwest,6235,30093,"['cafe', 'lodging', 'food', 'point_of_interest', 'establishment']",33.909731,-84.211513,Courtyard Atlanta Norcross/I-85
+57cf75cea73e494d8675eea7,Stone Mountain,GA,Robert E Lee Boulevard,1058,30083,"['lodging', 'restaurant', 'food', 'point_of_interest', 'establishment']",33.81411,-84.14290299999998,Stone Mountain Inn
+57cf75cea73e494d8675eea8,Atlanta,GA,Summit Boulevard Northeast,4000,30319,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",33.913368799999986,-84.34198740000001,Villa Christina
+57cf75cea73e494d8675eea9,Lawrenceville,GA,Sugarloaf Parkway,5900,30043,"['shopping_mall', 'department_store', 'jewelry_store', 'restaurant', 'food', 'clothing_store', 'store', 'point_of_interest', 'establishment']",33.981912799999996,-84.08148179999998,Sugarloaf Mills
+57cf75cea73e494d8675eeaa,Atlanta,GA,Piedmont Road Northeast,2539,30324,"['department_store', 'electronics_store', 'clothing_store', 'furniture_store', 'home_goods_store', 'store', 'point_of_interest', 'establishment']",33.8238516,-84.3629766,Target
+57cf75cea73e494d8675eeab,Atlanta,GA,Piedmont Avenue Northeast,1001,30309,"['meal_delivery', 'cafe', 'restaurant', 'food', 'point_of_interest', 'establishment']",33.781923,-84.380259,The Flying Biscuit Cafe
+57cf75cea73e494d8675eeac,Alpharetta,GA,Holcomb Bridge Road,2880,30022,"['movie_theater', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",33.991358,-84.274239,Studio Movie Grill
+57cf75cea73e494d8675eead,Doraville,GA,Peachtree Road,6035,30360,"['grocery_or_supermarket', 'food', 'store', 'point_of_interest', 'establishment']",33.90774520000001,-84.28816540000001,Super H Mart
+57cf75cea73e494d8675eeae,Atlanta,GA,North Avenue Northwest,61,30308,"['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']",33.77169179999999,-84.38933370000001,The Varsity
+57cf75cea73e494d8675eeaf,Atlanta,GA,Peachtree Road,3393,30326,"['shopping_mall', 'department_store', 'jewelry_store', 'restaurant', 'food', 'clothing_store', 'store', 'point_of_interest', 'establishment']",33.84655739999999,-84.36247440000001,Lenox Square
+57cf75cea73e494d8675eeb0,Alpharetta,GA,North Point Circle,1202,30022,"['store', 'point_of_interest', 'establishment']",34.049297100000004,-84.29374150000001,American Girl Atlanta
+57cf75cea73e494d8675eeb1,Atlanta,GA,Roswell Road,5930,30328,"['grocery_or_supermarket', 'bakery', 'florist', 'health', 'food', 'store', 'point_of_interest', 'establishment']",33.9176936,-84.37979659999998,Whole Foods Market
+57cf75cea73e494d8675eeb2,Atlanta,GA,Ponce De Leon Avenue Northeast,224,30308,"['restaurant', 'bar', 'food', 'point_of_interest', 'establishment']",33.7729071,-84.37999609999999,Mary Mac's Tea Room
+57cf75cea73e494d8675eeb3,Atlanta,GA,Peachtree Street Northwest,2900,30305,"['book_store', 'store', 'point_of_interest', 'establishment']",33.8353453,-84.38301259999999,Barnes & Noble
+57cf75cea73e494d8675eeb4,Atlanta,GA,White Way,1617,30344,"['restaurant', 'food', 'point_of_interest', 'establishment']",33.678885,-84.44169000000001,Thumbs Up Diner
+57cf75cea73e494d8675eeb5,Alpharetta,GA,N Point Pkwy,6000,30022,"['department_store', 'electronics_store', 'clothing_store', 'furniture_store', 'home_goods_store', 'store', 'point_of_interest', 'establishment']",34.04600569999999,-84.28633149999999,Target Alpharetta
+57cf75cea73e494d8675eeb6,Atlanta,GA,Stella Drive Northwest,4469,30342,"['store', 'point_of_interest', 'establishment']",33.8769723,-84.39695859999998,Chastain Park Amphitheatre
+57cf75cea73e494d8675eeb7,Marietta,GA,South Cobb Drive,980,30060,"['book_store', 'store', 'point_of_interest', 'establishment']",33.9290743,-84.55229659999998,Chattahoochee Technical College Bookstore
+57cf75cea73e494d8675eeb8,College Park,GA,Old National Highway,6149,30349,"['department_store', 'electronics_store', 'grocery_or_supermarket', 'food', 'store', 'point_of_interest', 'establishment']",33.5869197,-84.4721575,Walmart Supercenter
+57cf75cea73e494d8675eeb9,Atlanta,GA,Cumberland Pkwy,2450,30339,"['hardware_store', 'furniture_store', 'home_goods_store', 'store', 'point_of_interest', 'establishment']",33.862044899999994,-84.47611540000001,The Home Depot
+57cf75cea73e494d8675eeba,Atlanta,GA,McLendon Avenue Northeast,1655,30307,"['meal_delivery', 'bakery', 'cafe', 'restaurant', 'food', 'store', 'point_of_interest', 'establishment']",33.764726,-84.333199,The Flying Biscuit Cafe
+57cf75cea73e494d8675eebb,Atlanta,GA,Roswell Road,3175,30305,"['florist', 'store', 'point_of_interest', 'establishment']",33.841746,-84.37855400000001,Buckhead Blooms
+57cf75cea73e494d8675eebc,Duluth,GA,State Bridge Road,5945,30097,"['grocery_or_supermarket', 'bakery', 'florist', 'health', 'food', 'store', 'point_of_interest', 'establishment']",34.01299829999999,-84.1835128,Whole Foods Market
+57cf75cea73e494d8675eebd,Atlanta,GA,Howell Mill Road,914,30318,"['restaurant', 'food', 'point_of_interest', 'establishment']",33.779805100000004,-84.41044749999998,The Optimist
+57cf75cea73e494d8675eebe,Atlanta,GA,Peachtree Road Northeast,3500,30326,"['clothing_store', 'store', 'point_of_interest', 'establishment']",33.852746,-84.362245,Ticknors Men's Clothier - Phipps Plaza
+57cf75cea73e494d8675eebf,Lithonia,GA,Fairington Road,5401,30038,"['department_store', 'electronics_store', 'grocery_or_supermarket', 'food', 'store', 'point_of_interest', 'establishment']",33.700664,-84.167047,Walmart Supercenter
+57cf75cea73e494d8675eec0,Smyrna,GA,Cobb Parkway Southeast,2201,30080,"['department_store', 'electronics_store', 'clothing_store', 'furniture_store', 'home_goods_store', 'store', 'point_of_interest', 'establishment']",33.89781619999999,-84.47889409999998,Target
+57cf75cea73e494d8675eec1,Atlanta,GA,,,30340,"['store', 'point_of_interest', 'establishment']",33.8990472,-84.2426548,"Range, Guns & Safes"
+57cf75cea73e494d8675eec2,Atlanta,GA,Marietta Street,300,30313,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",33.7614473,-84.39629769999998,Stats
+57cf75cea73e494d8675eec3,Atlanta,GA,Ponce De Leon Avenue Northeast,718,30306,"['restaurant', 'food', 'point_of_interest', 'establishment']",33.773982399999994,-84.3634878,Chipotle Mexican Grill
+57cf75cea73e494d8675eec4,Atlanta,GA,Best Road,4711,30337,"['restaurant', 'food', 'point_of_interest', 'establishment']",33.626254100000004,-84.4608338,Bentleys Steakhouse
+57cf75cea73e494d8675eec5,Kennesaw,GA,Ernest W Barrett Parkway Northwest,840,30144,"['store', 'point_of_interest', 'establishment']",34.0095758,-84.57578609999999,Play It Again Sports
+57cf75cea73e494d8675eec6,Marietta,GA,Cobb Parkway South,150,30062,"['electronics_store', 'florist', 'health', 'food', 'store', 'point_of_interest', 'establishment']",33.948747999999995,-84.521914,Sam's Club
+57cf75cea73e494d8675eec7,Atlanta,GA,Buckhead Station Pedestrian Bridge,3495,30326,"['store', 'point_of_interest', 'establishment']",33.849521,-84.370127,Ulta Beauty
+57cf75cea73e494d8675eec8,Atlanta,GA,Peachtree Road Northeast,3500,30326,"['shopping_mall', 'department_store', 'jewelry_store', 'restaurant', 'food', 'clothing_store', 'store', 'point_of_interest', 'establishment']",33.8526543,-84.36230979999998,Phipps Plaza
+57cf75cea73e494d8675eec9,Marietta,GA,Powder Springs Street,500,30064,"['bar', 'food', 'point_of_interest', 'establishment']",33.94301289999999,-84.55378540000001,The Pub
+57cf75cea73e494d8675eeca,Atlanta,GA,19th Street Northwest,261,30363,"['restaurant', 'food', 'point_of_interest', 'establishment']",33.79352389999999,-84.3972814,Yard House
+57cf75cea73e494d8675eecb,Duluth,GA,Venture Drive,3980,30096,"['food', 'store', 'point_of_interest', 'establishment']",33.9475133,-84.14259190000001,Costco Wholesale
+57cf75cea73e494d8675eecc,Atlanta,GA,Moreland Avenue Northeast,292,30307,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",33.762215399999995,-84.34968620000001,Wrecking Bar Brewpub
+57cf75cea73e494d8675eecd,Kennesaw,GA,Ernest W Barrett Parkway Northwest,400,30144,"['shopping_mall', 'department_store', 'jewelry_store', 'restaurant', 'food', 'clothing_store', 'store', 'point_of_interest', 'establishment']",34.0179132,-84.56380349999998,Town Center at Cobb
+57cf75cea73e494d8675eece,Atlanta,GA,Piedmont Road Northeast,2625,30324,"['health', 'food', 'store', 'point_of_interest', 'establishment']",33.826311100000005,-84.36599939999998,Jenny Craig Weight Loss Center
+57cf75cea73e494d8675eecf,Atlanta,GA,18th Street Northwest,231,30363,"['clothing_store', 'store', 'point_of_interest', 'establishment']",33.7926211,-84.39551110000002,H&M
+57cf75cea73e494d8675eed0,Atlanta,GA,Peachtree Street Northeast,191,30303,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",33.7591669,-84.3874555,Alma Cocina
+57cf75cea73e494d8675eed1,Norcross,GA,Peachtree Parkway,6050,30092,"['shoe_store', 'clothing_store', 'store', 'point_of_interest', 'establishment']",33.9531174,-84.2318609,Dick's Sporting Goods
+57cf75cea73e494d8675eed2,Atlanta,GA,Peachtree Boulevard,5900,30341,"['car_dealer', 'car_repair', 'store', 'point_of_interest', 'establishment']",33.907377000000004,-84.29284400000002,Jim Ellis Chevrolet
+57cf75cea73e494d8675eed3,Atlanta,GA,Edgewood Avenue Southeast,209,30303,"['pharmacy', 'bakery', 'book_store', 'grocery_or_supermarket', 'health', 'restaurant', 'food', 'store', 'point_of_interest', 'establishment']",33.754092799999995,-84.37987679999998,Sweet Auburn Curb Market
+57cf75cea73e494d8675eed4,Morrow,GA,Southlake Circle,1000,30260,"['clothing_store', 'shoe_store', 'store', 'point_of_interest', 'establishment']",33.5749881,-84.3513953,DTLR
+57cf75cea73e494d8675eed5,Norcross,GA,Jimmy Carter Boulevard,5495,30093,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",33.910092799999994,-84.20438990000001,Nam Phuong Restaurant
+57cf75cea73e494d8675eed6,Atlanta,GA,Defoor Hills Road Northwest,2323,30318,"['food', 'point_of_interest', 'establishment']",33.8184522,-84.4346066,Red Brick Brewing Company
+57cf75cea73e494d8675eed7,Atlanta,GA,Monroe Drive Northeast,931,30308,"['finance', 'store', 'point_of_interest', 'establishment']",33.7803656,-84.36851429999999,The UPS Store
+57cf75cea73e494d8675eed8,Atlanta,GA,Peachtree Street Northwest,3060,30305,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",33.839195000000004,-84.38075049999998,King + Duke
+57cf75cea73e494d8675eed9,Atlanta,GA,Peachtree Dunwoody Road,5671,30342,"['health', 'store', 'point_of_interest', 'establishment']",33.909661,-84.3502974,Thomas Eyewear
+57cf75cea73e494d8675eeda,Atlanta,GA,Ashford Dunwoody Road,4505,30346,"['restaurant', 'bar', 'food', 'point_of_interest', 'establishment']",33.9247373,-84.33579,Sage Woodfire Tavern Perimeter
+57cf75cea73e494d8675eedb,Atlanta,GA,John Portman Boulevard Northwest,7,30303,"['restaurant', 'food', 'point_of_interest', 'establishment']",33.76124799999999,-84.3879358,Capital City Club
+57cf75cea73e494d8675eedc,Duluth,GA,Commerce Avenue Northwest,3296,30096,"['electronics_store', 'home_goods_store', 'store', 'point_of_interest', 'establishment']",33.95822109999999,-84.12113120000001,Fry's Electronics DVD
+57cf75cea73e494d8675eedd,Roswell,GA,Market Boulevard,1425,30076,"['finance', 'store', 'point_of_interest', 'establishment']",34.0181855,-84.31958459999998,The UPS Store
+57cf75cea73e494d8675eede,Atlanta,GA,16th Street Northwest,441,30363,"['furniture_store', 'home_goods_store', 'store', 'point_of_interest', 'establishment']",33.78878600000001,-84.405248,IKEA Atlanta Home Furnishings
+57cf75cea73e494d8675eedf,Decatur,GA,Church Street,1709,30033,"['grocery_or_supermarket', 'food', 'store', 'point_of_interest', 'establishment']",33.7976687,-84.28067279999998,Patel Brothers
+57cf75cea73e494d8675eee0,Duluth,GA,Satellite Boulevard,3675,30096,"['clothing_store', 'department_store', 'shoe_store', 'store', 'point_of_interest', 'establishment']",33.958573,-84.13846699999998,Rugged Wearhouse
+57cf75cea73e494d8675eee1,Atlanta,GA,North Highland Avenue Northeast,1186,30306,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",33.7869391,-84.3554628,The Original El Taco
+57cf75cea73e494d8675eee2,Atlanta,GA,East Andrews Drive Northwest,34,30305,"['clothing_store', 'store', 'point_of_interest', 'establishment']",33.843376,-84.38038499999998,Patagonia Atlanta
+57cf75cea73e494d8675eee3,Sandy Springs,GA,Roswell Road,5925,30328,"['hardware_store', 'furniture_store', 'home_goods_store', 'store', 'point_of_interest', 'establishment']",33.917345000000005,-84.377546,Lowe's Home Improvement
+57cf75cea73e494d8675eee4,Duluth,GA,Medlock Bridge Road,11720,30097,"['meal_delivery', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']",34.0674813,-84.1697465,zpizza
+57cf75cea73e494d8675eee5,Atlanta,GA,Peachtree Street Northeast,209,30303,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",33.7595326,-84.38733239999998,Hooters
+57cf75cea73e494d8675eee6,Duluth,GA,State Bridge Road,5805,30097,"['food', 'point_of_interest', 'establishment']",34.01665699999999,-84.18569699999998,Monkey Joe's Johnscreek Duluth
+57cf75cea73e494d8675eee7,Norcross,GA,Peachtree Parkway,5165,30092,"['department_store', 'shoe_store', 'clothing_store', 'home_goods_store', 'store', 'point_of_interest', 'establishment']",33.9805252,-84.21911800000001,Belk
+57cf75cea73e494d8675eee8,Atlanta,GA,Peachtree St NE,1180,30309,"['bakery', 'restaurant', 'food', 'store', 'point_of_interest', 'establishment']",33.7869045,-84.3840816,Highland Bakery - Midtown
+57cf75cea73e494d8675eee9,Atlanta,GA,Moreland Avenue Northeast,438,30307,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",33.7662469,-84.34923470000003,Vortex Bar & Grill
+57cf75cea73e494d8675eeea,Decatur,GA,West Ponce de Leon Avenue,254,30030,"['restaurant', 'food', 'point_of_interest', 'establishment']",33.7744104,-84.29511550000001,Cafe at Cakes & Ale
+57cf75cea73e494d8675eeeb,Jonesboro,GA,Upper Riverdale Road,335,30236,"['restaurant', 'food', 'point_of_interest', 'establishment']",33.5824547,-84.38217639999998,Chuck E. Cheese's
+57cf75cea73e494d8675eeec,Atlanta,GA,Marietta Street NW,300,30313,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",33.7615744,-84.39643149999998,Max's Coal Oven Pizzeria
+57cf75cea73e494d8675eeed,Lawrenceville,GA,Riverside Parkway,2100,30043,"['restaurant', 'food', 'point_of_interest', 'establishment']",33.9662482,-84.0338337,Golden Palace
+57cf75cea73e494d8675eeee,Smyrna,GA,Cobb Parkway,2579,30080,"['restaurant', 'food', 'point_of_interest', 'establishment']",33.889813200000006,-84.4744978,Red Lobster
+57cf75cea73e494d8675eeef,Atlanta,GA,North Druid Hills Road Northeast,2400,30329,"['department_store', 'electronics_store', 'clothing_store', 'furniture_store', 'home_goods_store', 'store', 'point_of_interest', 'establishment']",33.8284769,-84.3249788,Target
+57cf75cea73e494d8675eef0,Kennesaw,GA,Town Center Drive,2700,30144,"['clothing_store', 'store', 'point_of_interest', 'establishment']",34.014022600000004,-84.5645696,Plato's Closet
+57cf75cea73e494d8675eef1,Atlanta,GA,18th St,375,30363,"['department_store', 'electronics_store', 'clothing_store', 'furniture_store', 'home_goods_store', 'store', 'point_of_interest', 'establishment']",33.79252950000001,-84.39984399999999,Target
+57cf75cea73e494d8675eef2,Sandy Springs,GA,Abernathy Road Northeast,901,30328,"['health', 'store', 'point_of_interest', 'establishment']",33.9329549,-84.3610252,Eye 1st Vision Center
+57cf75cea73e494d8675eef3,Alpharetta,GA,North Point Parkway,6301,30022,"['restaurant', 'food', 'point_of_interest', 'establishment']",34.0470637,-84.2912989,California Pizza Kitchen at Northpoint
+57cf75cea73e494d8675eef4,Lilburn,GA,Stone Mountain Highway,4355,30035,"['car_dealer', 'car_repair', 'store', 'point_of_interest', 'establishment']",33.8353684,-84.08146959999998,Malcolm Cunningham Automotive Group
+57cf75cea73e494d8675eef5,Chamblee,GA,Clairmont Road,2901,30329,"['electronics_store', 'florist', 'health', 'food', 'store', 'point_of_interest', 'establishment']",33.8426778,-84.3112451,Sam's Club
+57cf75cea73e494d8675eef6,Atlanta,GA,Piedmont Road Northeast,3330,30305,"['restaurant', 'food', 'point_of_interest', 'establishment']",33.846673700000004,-84.373673,Piu Bello
+57cf75cea73e494d8675eef7,Atlanta,GA,Avenue Place,1540,30329,"['restaurant', 'food', 'point_of_interest', 'establishment']",33.8011797,-84.3270761,The General Muir
+57cf75cea73e494d8675eef8,Marietta,GA,Delk Road,2150,30067,"['restaurant', 'food', 'store', 'point_of_interest', 'establishment']",33.921855,-84.49152699999998,Cracker Barrel Old Country Store
+57cf75cea73e494d8675eef9,Atlanta,GA,Northeast Expressway,1485,30329,"['store', 'point_of_interest', 'establishment']",33.83301999999999,-84.3316,Guitar Center
+57cf75cea73e494d8675eefa,Atlanta,GA,Peachtree Street Northeast,848,30308,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",33.77788230000001,-84.38456889999998,Gordon Biersch
+57cf75cea73e494d8675eefb,Atlanta,GA,Piedmont Road Northeast,3330,30305,"['restaurant', 'meal_takeaway', 'food', 'store', 'point_of_interest', 'establishment']",33.84641249999999,-84.3744447,Jason's Deli
+57cf75cea73e494d8675eefc,Atlanta,GA,Briarwood Court Northeast,1936,30329,"['restaurant', 'food', 'point_of_interest', 'establishment']",33.839182,-84.32309099999998,HippoHopp
+57cf75cea73e494d8675eefd,Forest Park,GA,Frontage Road,5500,30297,"['department_store', 'furniture_store', 'home_goods_store', 'store', 'point_of_interest', 'establishment']",33.6041434,-84.3892912,JCPenney Outlet Store
+57cf75cea73e494d8675eefe,Duluth,GA,State Bridge Road,5805,30097,"['home_goods_store', 'store', 'point_of_interest', 'establishment']",34.017346,-84.185806,Hobby Lobby
+57cf75cea73e494d8675eeff,Atlanta,GA,Briarcliff Road Northeast,2111,30329,"['grocery_or_supermarket', 'bakery', 'florist', 'health', 'food', 'store', 'point_of_interest', 'establishment']",33.8158203,-84.333212,Whole Foods Market
+57cf75cea73e494d8675ef00,Norcross,GA,Holcomb Bridge Rd,3200,30092,"['department_store', 'electronics_store', 'clothing_store', 'furniture_store', 'home_goods_store', 'store', 'point_of_interest', 'establishment']",33.9513015,-84.23155809999999,Target
+57cf75cea73e494d8675ef01,Atlanta,GA,Caroline Street Northeast,1225,30307,"['grocery_or_supermarket', 'bakery', 'food', 'store', 'point_of_interest', 'establishment']",33.7560452,-84.34808570000001,Kroger
+57cf75cea73e494d8675ef02,Duluth,GA,Satellite Boulevard,3675,30096,"['shoe_store', 'store', 'point_of_interest', 'establishment']",33.95916169999999,-84.13775129999998,Shoe Carnival
+57cf75cea73e494d8675ef03,College Park,GA,Sullivan Road,1925,30337,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",33.626243,-84.453137,Ruby Tuesday
+57cf75cea73e494d8675ef04,Atlanta,GA,Peachtree Road,3183,30305,"['grocery_or_supermarket', 'liquor_store', 'florist', 'health', 'food', 'store', 'point_of_interest', 'establishment']",33.840941,-84.374955,Trader Joe's
+57cf75cea73e494d8675ef05,Atlanta,GA,Peachtree Road Northeast,3500,30326,"['clothing_store', 'store', 'point_of_interest', 'establishment']",33.8529245,-84.3625438,Hanna Andersson
+57cf75cea73e494d8675ef06,Atlanta,GA,,,30303,"['restaurant', 'food', 'point_of_interest', 'establishment']",33.757898,-84.394378,Arby's
+57cf75cea73e494d8675ef07,Atlanta,GA,Monroe Drive Northeast,931,30308,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",33.779331899999995,-84.36725779999998,The Highlander
+57cf75cea73e494d8675ef08,Atlanta,GA,Peachtree Street Northeast,215,30303,"['cafe', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",33.7599211,-84.38734199999998,Hard Rock Cafe Atlanta
+57cf75cea73e494d8675ef09,Atlanta,GA,Motors Industrial Way,5000,30360,"['electronics_store', 'home_goods_store', 'store', 'point_of_interest', 'establishment']",33.90895249999999,-84.28541489999998,BrandsMart USA
+57cf75cea73e494d8675ef0a,Atlanta,GA,Peachtree Road,3368,30326,"['meal_delivery', 'meal_takeaway', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",33.848131499999994,-84.3673013,Maggiano's Little Italy
+57cf75cea73e494d8675ef0b,Atlanta,GA,Martin Luther King Junior Drive Southwest,3050-H,30311,"['grocery_or_supermarket', 'food', 'store', 'point_of_interest', 'establishment']",33.7504098,-84.4858342,Wayfield Foods
+57cf75cea73e494d8675ef0c,Tucker,GA,Lavista Road,4043,30084,"['movie_theater', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",33.8428049,-84.251463,Movie Tavern
+57cf75cea73e494d8675ef0d,Duluth,GA,Pleasant Hill Road,2635,30096,"['department_store', 'electronics_store', 'grocery_or_supermarket', 'food', 'store', 'point_of_interest', 'establishment']",33.9701127,-84.1504411,Walmart Supercenter
+57cf75cea73e494d8675ef0e,Atlanta,GA,Akers Mill Road Southeast,2243,30339,"['restaurant', 'food', 'point_of_interest', 'establishment']",33.898647499999996,-84.4472057,Heirloom Market BBQ
+57cf75cea73e494d8675ef0f,Lawrenceville,GA,Sugarloaf Pkwy,5900,30043,"['store', 'point_of_interest', 'establishment']",33.9807833,-84.080871,Samsonite
+57cf75cea73e494d8675ef10,Douglasville,GA,Douglas Boulevard,6700,30135,"['clothing_store', 'store', 'point_of_interest', 'establishment']",33.727724499999994,-84.74608350000003,Perfume Paradise
+57cf75cea73e494d8675ef11,Atlanta,GA,Roswell Road Northeast,5920,30328,"['night_club', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",33.9171166,-84.38050890000001,Chef Rob's Caribbean Cafe & Upscale Lounge
+57cf75cea73e494d8675ef12,Atlanta,GA,Peachtree Street Northeast,1065,30309,"['cafe', 'bar', 'restaurant', 'food', 'store', 'point_of_interest', 'establishment']",33.7833109,-84.38358679999997,Cafe Intermezzo
+57cf75cea73e494d8675ef13,Chamblee,GA,Peachtree Industrial Boulevard,4950,30341,"['hardware_store', 'furniture_store', 'home_goods_store', 'store', 'point_of_interest', 'establishment']",33.885339,-84.317313,Lowe's Home Improvement
+57cf75cea73e494d8675ef14,Alpharetta,GA,Windward Plaza,3070,30005,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']",34.0929957,-84.24132309999999,Starbucks
+57cf75cea73e494d8675ef15,Atlanta,GA,Piedmont Road Northeast,3073,30305,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",33.839277,-84.36874470000001,Buckhead Diner
+57cf75cea73e494d8675ef16,Douglasville,GA,Fairburn Road,5733,30134,"['car_repair', 'store', 'point_of_interest', 'establishment']",33.7516381,-84.7220037,NAPA Auto Parts - Genuine Parts Company
+57cf75cea73e494d8675ef17,Atlanta,GA,Peachtree Street Northeast,200,30303,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",33.759144899999995,-84.38773379999998,Meehan's Public House Downtown
+57cf75cea73e494d8675ef18,Atlanta,GA,Hammond Drive Northeast,1131,30328,"['department_store', 'clothing_store', 'store', 'point_of_interest', 'establishment']",33.91957860000001,-84.3430254,Marshalls
+57cf75cea73e494d8675ef19,Decatur,GA,East Ponce de Leon Avenue,3000,30030,"['food', 'point_of_interest', 'establishment']",33.7866115,-84.26980970000001,Your DeKalb Farmers Market
+57cf75cea73e494d8675ef1a,Atlanta,GA,Peachtree Street Northeast,842,30308,"['pharmacy', 'health', 'store', 'point_of_interest', 'establishment']",33.7775807,-84.3848336,CVS Pharmacy
+57cf75cea73e494d8675ef1b,Atlanta,GA,Peachtree Street Northeast,903,30309,"['store', 'point_of_interest', 'establishment']",33.7791211,-84.38401209999998,T-Mobile Atlanta
+57cf75cea73e494d8675ef1c,Atlanta,GA,Ralph McGill Boulevard Northeast,820,30306,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",33.7684531,-84.3612569,TWO urban licks
+57cf75cea73e494d8675ef1d,Atlanta,GA,Ashford Dunwoody Road,4400,30346,"['doctor', 'health', 'store', 'point_of_interest', 'establishment']",33.923855999999994,-84.340572,Perimeter Eye Group
+57cf75cea73e494d8675ef1e,Atlanta,GA,Lenox Road Northeast,3321,30326,"['restaurant', 'food', 'point_of_interest', 'establishment']",33.84593109999999,-84.3585643,Houston's
+57cf75cea73e494d8675ef1f,Atlanta,GA,Crescent Avenue Northeast,1144,30309,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",33.785954499999995,-84.3844341,South City Kitchen Midtown
+57cf75cea73e494d8675ef20,Roswell,GA,Alpharetta Highway,11000,30076,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",34.0474912,-84.34092079999998,Andretti Indoor Karting & Games
+57cf75cea73e494d8675ef21,Duluth,GA,Medlock Bridge Road,10900,30097,"['restaurant', 'food', 'point_of_interest', 'establishment']",34.047132500000004,-84.17924980000001,Abbotts Bar & Grill
+57cf75cea73e494d8675ef22,Atlanta,GA,Howell Mill Road,1170,30318,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",33.7858143,-84.41195069999998,Ormsby's
+57cf75cea73e494d8675ef23,Duluth,GA,Pleasant Hill Rd,1875,30096,"['electronics_store', 'home_goods_store', 'store', 'point_of_interest', 'establishment']",33.9507739,-84.1306453,Best Buy
+57cf75cea73e494d8675ef24,Atlanta,GA,Camp Creek Parkway,3360,30344,"['restaurant', 'food', 'point_of_interest', 'establishment']",33.65705,-84.5000046,Red Lobster
+57cf75cea73e494d8675ef25,Marietta,GA,Dallas Highway,2424,30064,"['restaurant', 'food', 'point_of_interest', 'establishment']",33.94668100000001,-84.622778,Arby's
+57cf75cea73e494d8675ef26,Duluth,GA,State Bridge Road,5900,30097,"['shoe_store', 'clothing_store', 'furniture_store', 'home_goods_store', 'store', 'point_of_interest', 'establishment']",34.015606299999995,-84.18932779999999,Kid to Kid
+57cf75cea73e494d8675ef27,Atlanta,GA,Lavista Road Northeast,2205,30329,"['restaurant', 'food', 'point_of_interest', 'establishment']",33.81566289999999,-84.31381379999998,Chai Peking Chinese Restaurant
+57cf75cea73e494d8675ef28,Atlanta,GA,Ottley Drive Northeast,195,30324,"['bar', 'food', 'point_of_interest', 'establishment']",33.8081494,-84.38093570000001,SweetWater Brewing Company
+57cf75cea73e494d8675ef29,Atlanta,GA,Peachtree Street Northwest,210,30303,"['night_club', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",33.7593461,-84.38857159999998,The Sun Dial
+57cf75cea73e494d8675ef2a,Atlanta,GA,Amsterdam Avenue Northeast,550,30306,"['bar', 'night_club', 'restaurant', 'food', 'point_of_interest', 'establishment']",33.788594599999996,-84.3691011,Loca Luna
+57cf75cea73e494d8675ef2b,Roswell,GA,Mansell Road,970,30076,"['department_store', 'electronics_store', 'grocery_or_supermarket', 'food', 'store', 'point_of_interest', 'establishment']",34.045275,-84.333546,Walmart Supercenter
+57cf75cea73e494d8675ef2c,Atlanta,GA,Buckhead Avenue Northeast,333,30305,"['furniture_store', 'home_goods_store', 'store', 'point_of_interest', 'establishment']",33.83788079999999,-84.37670349999998,Roche Bobois
+57cf75cea73e494d8675ef2d,Atlanta,GA,Buford Hwy NE,3963,30345,"['grocery_or_supermarket', 'food', 'store', 'point_of_interest', 'establishment']",33.85804729999999,-84.3103897,ALDI
+57cf75cea73e494d8675ef2e,Atlanta,GA,Cobb Parkway Southeast,2952,30339,"['book_store', 'store', 'point_of_interest', 'establishment']",33.8799622,-84.4636709,Barnes & Noble
+57cf75cea73e494d8675ef2f,Atlanta,GA,Paces Ferry Road Southeast,4199,30339,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",33.85974,-84.455173,Canoe
+57cf75cea73e494d8675ef30,Atlanta,GA,Flat Shoals Avenue Southeast,488,30316,"['bar', 'night_club', 'restaurant', 'food', 'point_of_interest', 'establishment']",33.74098,-84.3459247,The EARL
+57cf75cea73e494d8675ef31,Marietta,GA,D&B Drive Southeast,2215,30067,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",33.919680799999995,-84.48519979999998,Dave & Buster's
+57cf75cea73e494d8675ef32,Roswell,GA,Alpharetta Highway,10779,30076,"['electronics_store', 'furniture_store', 'home_goods_store', 'store', 'point_of_interest', 'establishment']",34.0418782,-84.33983169999998,Office Depot
+57cf75cea73e494d8675ef33,Marietta,GA,Powder Springs Street,500,30008,"['restaurant', 'food', 'point_of_interest', 'establishment']",33.94303639999999,-84.5538828,Hamilton's Restaurant
+57cf75cea73e494d8675ef34,Snellville,GA,Scenic Highway South,1905,30078,"['home_goods_store', 'store', 'point_of_interest', 'establishment']",33.8779342,-84.01478259999998,Bed Bath & Beyond
+57cf75cea73e494d8675ef35,Decatur,GA,Dekalb Industrial Way,751,30033,"['grocery_or_supermarket', 'food', 'store', 'point_of_interest', 'establishment']",33.7986531,-84.2794785,Cherians International Groceries
+57cf75cea73e494d8675ef36,Atlanta,GA,Piedmont Avenue Northeast,554,30308,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",33.76965810000001,-84.38227549999998,Midtown Tavern
+57cf75cea73e494d8675ef37,Duluth,GA,Old Norcross Road,3473,30096,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",33.96621089999999,-84.1333068,Honey Pig
+57cf75cea73e494d8675ef38,Atlanta,GA,Piedmont Avenue Northeast,1144,30309,"['atm', 'bar', 'restaurant', 'food', 'finance', 'point_of_interest', 'establishment']",33.7860349,-84.3784727,The Nook on Piedmont Park
+57cf75cea73e494d8675ef39,Roswell,GA,Sway Branch Drive,10140,30075,"['electronics_store', 'store', 'point_of_interest', 'establishment']",34.027765,-84.3372993,Atlanta Home Theater
+57cf75cea73e494d8675ef3a,Atlanta,GA,Monroe Circle Northeast,931,30308,"['grocery_or_supermarket', 'liquor_store', 'florist', 'health', 'food', 'store', 'point_of_interest', 'establishment']",33.7797565,-84.3678403,Trader Joe's
+57cf75cea73e494d8675ef3b,Atlanta,GA,Peachtree Street Northeast,878,30309,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",33.7790445,-84.38438289999998,Vortex Bar & Grill
+57cf75cea73e494d8675ef3c,Lilburn,GA,Lawrenceville Highway,4805,30047,"['hardware_store', 'store', 'point_of_interest', 'establishment']",33.896147,-84.143025,Harbor Freight Tools
+57cf75cea73e494d8675ef3d,Atlanta,GA,Ponce De Leon Avenue Northeast,782,30306,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",33.7741127,-84.36176999999998,The Real Chow Baby
+57cf75cea73e494d8675ef3e,Norcross,GA,Peachtree Parkway,5141,30092,"['book_store', 'store', 'point_of_interest', 'establishment']",33.98138099999999,-84.21658099999998,Barnes & Noble
+57cf75cea73e494d8675ef3f,Roswell,GA,Holcomb Bridge Road,2340,30076,"['store', 'point_of_interest', 'establishment']",34.005170299999996,-84.29318640000001,Petco Animal Supplies
+57cf75cea73e494d8675ef40,Atlanta,GA,Piedmont Road Northeast,3101,30305,"['restaurant', 'food', 'point_of_interest', 'establishment']",33.840557200000006,-84.3695068,Fogo de Chão Brazilian Steakhouse
+57cf75cea73e494d8675ef41,Atlanta,GA,North Highland Avenue Northeast,1402,30306,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",33.79269,-84.352621,The Family Dog
+57cf75cea73e494d8675ef42,Atlanta,GA,Peachtree Road Northeast,3630,30326,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",33.854222899999996,-84.3583771,F&B
+57cf75cea73e494d8675ef43,Decatur,GA,North Decatur Road,2665,30033,"['pharmacy', 'health', 'store', 'point_of_interest', 'establishment']",33.79124419999999,-84.2836478,Pharmacy
+57cf75cea73e494d8675ef44,Atlanta,GA,Bankers Industrial Drive,2745,30360,"['clothing_store', 'store', 'point_of_interest', 'establishment']",33.919298,-84.26050099999998,Liberator Factory Showroom
+57cf75cea73e494d8675ef45,Norcross,GA,Holcomb Bridge Road,4015,30092,"['restaurant', 'food', 'point_of_interest', 'establishment']",33.965855100000006,-84.25669649999998,Subway
+57cf75cea73e494d8675ef46,Morrow,GA,Mt Zion Rd,1700,30260,"['food', 'store', 'point_of_interest', 'establishment']",33.5720626,-84.332916,Costco Wholesale
+57cf75cea73e494d8675ef47,Norcross,GA,Peachtree Parkway,5270,30092,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",33.9760676,-84.2177615,The Flying Biscuit Cafe
+57cf75cea73e494d8675ef48,Atlanta,GA,Peachtree St NW,240,30303,"['restaurant', 'food', 'point_of_interest', 'establishment']",33.760333,-84.38832599999998,Ray's In the City
+57cf75cea73e494d8675ef49,Roswell,GA,Alpharetta Highway,10800,30076,"['health', 'store', 'point_of_interest', 'establishment']",34.04442299999999,-84.34112499999998,Eye Optique
+57cf75cea73e494d8675ef4a,Atlanta,GA,Howell Mill Road,1801,30318,"['store', 'point_of_interest', 'establishment']",33.80259960000001,-84.41066510000002,Ulta Beauty
+57cf75cea73e494d8675ef4b,Atlanta,GA,Piedmont Road Northeast,3365,30305,"['restaurant', 'food', 'point_of_interest', 'establishment']",33.8473033,-84.3727248,Farm Burger Buckhead
+57cf75cea73e494d8675ef4c,Chamblee,GA,Peachtree Industrial Boulevard,5525,30341,"['car_dealer', 'car_repair', 'store', 'point_of_interest', 'establishment']",33.898140600000005,-84.30084699999998,Curry Honda
+57cf75cea73e494d8675ef4d,Atlanta,GA,Poplar Street Northwest,79,30303,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",33.757033,-84.3899229,Sidebar
+57cf75cea73e494d8675ef4e,Atlanta,GA,Memorial Drive Southeast,437,30312,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",33.746637799999995,-84.37282429999998,Six Feet Under
+57cf75cea73e494d8675ef4f,Duluth,GA,Satellite Boulevard,1950,30097,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",33.9906759,-84.0860912,Marlow's Tavern
+57cf75cea73e494d8675ef50,Sandy Springs,GA,Hammond Drive NE,1140,30328,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",33.9212883,-84.351004,"Uncle Julio's Perimeter, GA"
+57cf75cea73e494d8675ef51,Atlanta,GA,Ashwood Pkwy,500,30338,"['restaurant', 'food', 'point_of_interest', 'establishment']",33.932825,-84.33932370000001,P.F. Chang's
+57cf75cea73e494d8675ef52,Sandy Springs,GA,Peachtree Dunwoody Road,6350,30328,"['food', 'store', 'point_of_interest', 'establishment']",33.9282677,-84.35500400000001,Costco Wholesale
+57cf75cea73e494d8675ef53,Johns Creek,GA,,,30022,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",34.046176,-84.22101579999998,Outback Steakhouse
+57cf75cea73e494d8675ef54,Alpharetta,GA,Haynes Bridge Road,11770,30009,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",34.069654,-84.294748,Locos Grill & Pub
+57cf75cea73e494d8675ef55,Lawrenceville,GA,Riverside Parkway,2100,30043,"['grocery_or_supermarket', 'bakery', 'food', 'store', 'point_of_interest', 'establishment']",33.9664742,-84.0334783,Kroger
+57cf75cea73e494d8675ef56,Atlanta,GA,Peachtree Center Avenue Cycle Track,303,30303,"['bakery', 'cafe', 'restaurant', 'food', 'store', 'point_of_interest', 'establishment']",33.762823,-84.38650299999998,Dunkin' Donuts
+57cf75cea73e494d8675ef57,Duluth,GA,Satellite Boulevard,3675,30096,"['clothing_store', 'store', 'point_of_interest', 'establishment']",33.9582266,-84.13852519999998,Avenue
+57cf75cea73e494d8675ef58,Atlanta,GA,Interstate North Parkway,500,30339,"['car_dealer', 'car_repair', 'store', 'point_of_interest', 'establishment']",33.8990396,-84.44971609999997,Global Imports BMW
+57cf75cea73e494d8675ef59,Duluth,GA,Pleasant Hill Road,2550,30096,"['grocery_or_supermarket', 'food', 'store', 'point_of_interest', 'establishment']",33.9696567,-84.1429564,Super H Mart
+57cf75cea73e494d8675ef5a,Duluth,GA,Venture Drive,4000,30096,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",33.947266299999995,-84.14509699999998,Dave & Buster's
+57cf75cea73e494d8675ef5b,Atlanta,GA,Roswell Road Northeast,3227,30305,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",33.84320099999999,-84.37880799999999,Buckhead Saloon
+57cf75cea73e494d8675ef5c,Atlanta,GA,Roswell Road,8725,30350,"['meal_delivery', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']",33.994792100000005,-84.3500775,Papa John's Pizza
+57cf75cea73e494d8675ef5d,Atlanta,GA,Peachtree Street Northeast,800,30308,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",33.7764989,-84.3848433,Escorpion
+57cf75cea73e494d8675ef5e,Stockbridge,GA,Mount Zion Parkway,4000,30281,"['electronics_store', 'home_goods_store', 'store', 'point_of_interest', 'establishment']",33.5474298,-84.28526059999999,BrandsMart USA
+57cf75cea73e494d8675ef5f,Kennesaw,GA,George Busbee Parkway Northwest,2911,30144,"['clothing_store', 'store', 'point_of_interest', 'establishment']",34.02483449999999,-84.5700981,Burlington Coat Factory
+57cf75cea73e494d8675ef60,Alpharetta,GA,Haynes Bridge Road,9925,30022,"['meal_delivery', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']",34.02241459999999,-84.2677738,Domino's Pizza
+57cf75cea73e494d8675ef61,Atlanta,GA,Peachtree Street Northwest,2274,30309,"['bakery', 'cafe', 'meal_takeaway', 'restaurant', 'food', 'store', 'point_of_interest', 'establishment']",33.8166448,-84.3907574,Panera Bread
+57cf75cea73e494d8675ef62,Alpharetta,GA,Haynes Bridge Road,11770,30004,"['meal_takeaway', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",34.0701577,-84.2948562,Mellow Mushroom
+57cf75cea73e494d8675ef63,Atlanta,GA,DeKalb Avenue Northeast,1238,30307,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",33.761066099999994,-84.34747589999998,Fox Bros. Bar-B-Q
+57cf75cea73e494d8675ef64,Lawrenceville,GA,Herrington Road,950,30044,"['finance', 'store', 'point_of_interest', 'establishment']",33.940481,-84.08274,The UPS Store
+57cf75cea73e494d8675ef65,Alpharetta,GA,State Bridge Road,10945,30022,"['health', 'store', 'point_of_interest', 'establishment']",34.04952480000001,-84.22275920000001,20/20 Eye Care
+57cf75cea73e494d8675ef66,Atlanta,GA,Monroe Drive Northeast,1700,30324,"['grocery_or_supermarket', 'bakery', 'food', 'store', 'point_of_interest', 'establishment']",33.80051699999999,-84.37298899999998,Kroger
+57cf75cea73e494d8675ef67,Tucker,GA,Mountain Industrial Boulevard,1940,30084,"['gas_station', 'bakery', 'food', 'store', 'point_of_interest', 'establishment']",33.8403177,-84.20237259999998,Sam's Club Bakery
+57cf75cea73e494d8675ef68,Marietta,GA,South Marietta Parkway Southwest,29,30064,"['restaurant', 'food', 'point_of_interest', 'establishment']",33.9513559,-84.551422,La Parrilla Mexican Restaurant
