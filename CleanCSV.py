@@ -8,7 +8,7 @@ def clean_csv(csv_file):
             if len(row[0]) > 1:
                 lines.append(row)
     print(len(lines))
-    with open("Customers.csv", "w") as f:
+    with open("PurchaseData.csv", "w") as f:
         writer = csv.writer(f, delimiter = ',')
         for line in lines:
             writer.writerow(line)

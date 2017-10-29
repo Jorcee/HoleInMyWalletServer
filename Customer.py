@@ -9,11 +9,12 @@ class Customer:
     account_id = ""
     cust_id = ""
     types = ["STORE"]
+    #Generate a List of Purchases by the Customer
     def make_purchases(self,account):
         url = 'http://api.reimaginebanking.com/accounts/'+account+'/purchases?key=0f030ef091420133d187099758681c3a'
         global types
         types
-        merchant_data = open('Merchants.csv','r')
+        merchant_data = open('Merchant.csv','r')
         reader = csv.reader(merchant_data, delimiter=',')
         for t in types:
             for row in reader:
@@ -25,7 +26,7 @@ class Customer:
                               'description':'Bought Stuff'
                     }
                     r = requests.post(url,json=payload)
-                
+    #Create an account under the customer's name            
     def make_account(self, cust):
         url = 'http://api.reimaginebanking.com/customers/'+cust+'/accounts?key=0f030ef091420133d187099758681c3a'
         payload = {'type': "Credit Card",
@@ -39,7 +40,7 @@ class Customer:
         account_id = account_id['objectCreated']['_id']
         print(account_id)
         self.make_purchases(account_id)
-        
+    #Create    
     def __init__(self,fname,lname,address, ts=[]):
         global types
         types = ts
